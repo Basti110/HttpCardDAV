@@ -1,0 +1,5 @@
+C:\Users\Basti\Downloads\SimpleHttpServer-master\SimpleHttpServer-master\bin\Debug\SimpleHttpServer.exe
+C:\Users\Basti\Downloads\SimpleHttpServer-master\SimpleHttpServer-master\bin\Debug\SimpleHttpServer.pdb
+C:\Users\Basti\Downloads\SimpleHttpServer-master\SimpleHttpServer-master\obj\x86\Debug\SimpleHttpServer.csprojResolveAssemblyReference.cache
+C:\Users\Basti\Downloads\SimpleHttpServer-master\SimpleHttpServer-master\obj\x86\Debug\SimpleHttpServer.exe
+C:\Users\Basti\Downloads\SimpleHttpServer-master\SimpleHttpServer-master\obj\x86\Debug\SimpleHttpServer.pdb
